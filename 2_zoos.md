@@ -15,7 +15,7 @@ Es vol dissenyar una base de dades relacional per emmagatzemar informació relat
 [2.Zoos](https://drive.google.com/file/d/17Hrc9BPg5_IbN0tLAGLbPbkvVgWfXq8H/view?usp=sharing)
 
 ## 2.2. Esquema conceptual (EC ó ER)
-  ![Zoos](./Zoos.png)
+  ![Zoos](./2_zoos.png)
 
 # 3. Model lògic relacional
 ## 3.1. Esquema lògic
