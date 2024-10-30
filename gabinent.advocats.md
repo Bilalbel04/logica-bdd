@@ -12,7 +12,7 @@ Es vol dissenyar una base de dades relacional per emmagatzemar informació relat
 
 # 2. Model conceptual
 ## 2.1. Enllaç públic a l'esquema
-[2.Zoos] https://drive.google.com/file/d/1bwYA0BM5QQ7ZGpE2-4_yqzShyODmaIh0/view?usp=drive_link
+[2.Zoos](https://drive.google.com/file/d/17Hrc9BPg5_IbN0tLAGLbPbkvVgWfXq8H/view?usp=sharing)
 
 ## 2.2. Esquema conceptual (EC ó ER)
   ![Zoos](./Zoos.png)
