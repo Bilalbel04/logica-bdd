@@ -10,8 +10,6 @@ Es vol dissenyar una base de dades relacional per emmagatzemar informació relat
 
 - A més, s'ha de guardar informació sobre cada animal que els zoos tenen, com el seu número d'identificació, espècie, sexe, any de naixement, país d'origen i continent.
 
-
-
 # 2. Model conceptual
 ## 2.1. Enllaç públic a l'esquema
 [2.Zoos] https://drive.google.com/file/d/1bwYA0BM5QQ7ZGpE2-4_yqzShyODmaIh0/view?usp=drive_link
